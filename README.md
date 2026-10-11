@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <img width="120" alt="avatar" src="https://api.dicebear.com/9.x/shapes/svg?seed=sico-vibes&backgroundColor=0f0c29&radius=50">
+  <img width="140" alt="Bassem" src="assets/avatar.png" style="border-radius:50%">
 </p>
 
 <p align="center">
