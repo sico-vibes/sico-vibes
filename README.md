@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/sico-vibes">
-    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=640&lines=Orchestrating+AI+agents%2C+CLIs+and+models;Optimising+AI+usage+%E2%80%94+more+output%2C+fewer+tokens;Integrating+AI+into+businesses%2C+safely%2C+with+guardrails;Building+Windows+apps+and+tools+from+scratch">
+    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=820&lines=Orchestrating+AI+agents%2C+CLIs+and+models;Optimising+AI+usage+%E2%80%94+more+output%2C+fewer+tokens;Integrating+AI+into+businesses%2C+safely%2C+with+guardrails;Building+Windows+apps+and+tools+from+scratch">
   </a>
 </p>
 
@@ -73,7 +73,7 @@ The open-source app for managing AI agents at work.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sico-vibes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=false" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sico-vibes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=false&hide_rank=true" alt="stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sico-vibes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="languages">
 </p>
 <p align="center">
